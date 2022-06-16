@@ -17,6 +17,7 @@
 ### Best practices
 - [reactjs-best-practices](https://www.tatvasoft.com/blog/reactjs-best-practices/)
 - [React Architecture Best Practices for 2022](https://www.sitepoint.com/react-architecture-best-practices/)
+- [Optimizing-typescript](https://wallabyjs.com/blog/optimizing-typescript.html)
 
 ### Clean Code
 - [clean-code-typescript](https://github.com/labs42io/clean-code-typescript)
