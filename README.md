@@ -13,12 +13,28 @@
 
 
 
+### Overal
+- [Project Guidelines](https://github.com/elsewhencode/project-guidelines)
+- [Best practices for Javascript projects](https://medium.com/ableneo/best-practices-for-javascript-projects-4b0dd7aaf810)
+- [5 Recommended ReactJS Tips and Best Practices](https://blog.bitsrc.io/5-recommended-reactjs-tips-and-best-practices-9a7e2f6526a4)
+- []()
 
-### Best practices
+
+### Best practices - React
+
+- [React Best Practices – Tips for Writing Better React Code in 2022](https://www.freecodecamp.org/news/best-practices-for-react/)
+- [32 React Best Practices That Every Programmer Should Follow](https://www.loginradius.com/blog/engineering/guest-post/react-best-coding-practices/)
 - [reactjs-best-practices](https://www.tatvasoft.com/blog/reactjs-best-practices/)
+- [REACT BEST PRACTICES AND SECURITY](https://www.tatvasoft.com/blog/reactjs-best-practices/)
+- [10 React Best Practices You Need to Follow In 2022](https://www.makeuseof.com/must-follow-react-practices/)
 - [React Architecture Best Practices for 2022](https://www.sitepoint.com/react-architecture-best-practices/)
 - [Optimizing-typescript](https://wallabyjs.com/blog/optimizing-typescript.html)
 
+
+### Best practices - Javascript
+- [JavaScript best practices](https://raygun.com/blog/javascript-best-practices/)
+- [30 JavaScript Best Practices for Beginners](https://code.tutsplus.com/tutorials/24-javascript-best-practices-for-beginners--net-5399)
+- []()
 ### Clean Code
 - [clean-code-typescript](https://github.com/labs42io/clean-code-typescript)
 - [TypeScript Best Practices](https://github.com/andredesousa/typescript-best-practices)
