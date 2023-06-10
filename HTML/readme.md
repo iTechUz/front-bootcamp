@@ -3,7 +3,6 @@
 - [Front-end-coding-standards](https://ferie.github.io/Front-end-coding-standards/Scripts/javascript.html#include-a-single-space-before-and-after-curly-brakets-when-importing)
 
 
-
 ### Learn the Basics - CSS
 
 ### <i class="fa-brands fa-css3-alt" style="color: #4f87e8;"></i> CSS
@@ -14,3 +13,4 @@
 - [Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
 - [Display](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
 - [Specificty](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificityx)
+
